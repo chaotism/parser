@@ -1,0 +1,1 @@
+{"На почту":"email", "На телефон":"tel", "Whatapp":"whatsapp", "Skype":"skype"}

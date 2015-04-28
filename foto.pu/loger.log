@@ -1,0 +1,995 @@
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:22:28; take_foto.py:49)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:25:30; take_foto.py:49)
+INFO:__main__:  take_foto.py:99 http://kapous.ru/4/ (2015-02-26 19:25:47; take_foto.py:99)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:27:10; take_foto.py:49)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:27:17; take_foto.py:49)
+INFO:__main__:  take_foto.py:103 http://kapous.ru/4/ (2015-02-26 19:27:27; take_foto.py:103)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:27:39; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:27:44; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:27:49; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:27:54; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:27:59; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:04; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:09; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:14; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:20; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:25; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:30; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:35; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:40; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:45; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:50; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:28:55; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:00; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:05; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:10; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:15; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:20; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:25; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:31; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:36; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:41; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:46; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:51; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:29:56; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:01; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:06; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:11; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:16; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:21; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:26; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:31; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:36; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:42; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:47; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:52; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:30:57; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:31:02; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:31:07; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmpd0oo2n/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:31:12; take_foto.py:65)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:31:16; take_foto.py:49)
+INFO:__main__:  take_foto.py:104 driver.back() (2015-02-26 19:31:19; take_foto.py:104)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:31:43; take_foto.py:49)
+INFO:__main__:  take_foto.py:104 http://kapous.ru/4/ (2015-02-26 19:31:46; take_foto.py:104)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:31:58; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:04; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:09; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:14; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:19; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:24; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:29; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:34; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:39; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:44; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:49; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:32:55; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:00; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:05; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:10; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:15; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:20; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:25; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:30; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:35; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:40; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:45; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:50; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:33:55; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:01; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:06; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:11; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:16; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:21; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:26; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:31; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:36; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:41; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:46; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:51; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:34:56; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:01; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:07; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:12; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:17; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:22; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:27; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:32; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:37; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:42; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:47; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:52; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:35:57; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:03; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:08; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:13; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:18; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:23; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:28; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:33; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:38; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:43; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:48; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:53; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:36:59; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:04; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:09; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:14; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:19; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:25; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:30; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:35; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:40; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:45; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:50; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:37:55; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmp2blpev/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 19:38:00; take_foto.py:65)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:38:02; take_foto.py:49)
+INFO:__main__:  take_foto.py:106 http://kapous.ru/4/ (2015-02-26 19:38:18; take_foto.py:106)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:40:02; take_foto.py:49)
+INFO:__main__:  take_foto.py:110 http://kapous.ru/4/ (2015-02-26 19:40:09; take_foto.py:110)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:40:54; take_foto.py:49)
+INFO:__main__:  take_foto.py:111 .tag_name (2015-02-26 19:41:00; take_foto.py:111)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:41:15; take_foto.py:49)
+INFO:__main__:  take_foto.py:111 http://kapous.ru/4/ (2015-02-26 19:41:17; take_foto.py:111)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:42:11; take_foto.py:49)
+INFO:__main__:  take_foto.py:111 http://kapous.ru/4/ (2015-02-26 19:42:16; take_foto.py:111)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:44:06; take_foto.py:49)
+INFO:__main__:  take_foto.py:111 http://kapous.ru/4/ (2015-02-26 19:44:12; take_foto.py:111)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:44:56; take_foto.py:49)
+INFO:__main__:  take_foto.py:111 http://kapous.ru/4/ (2015-02-26 19:45:05; take_foto.py:111)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:47:27; take_foto.py:49)
+INFO:__main__:  take_foto.py:112 location (2015-02-26 19:47:30; take_foto.py:112)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 19:47:44; take_foto.py:49)
+INFO:__main__:  take_foto.py:112 http://kapous.ru/4/ (2015-02-26 19:47:49; take_foto.py:112)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 21:32:44; take_foto.py:49)
+INFO:__main__:  take_foto.py:112 http://kapous.ru/4/ (2015-02-26 21:32:55; take_foto.py:112)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 21:33:24; take_foto.py:49)
+INFO:__main__:  take_foto.py:104 http://kapous.ru/4/ (2015-02-26 21:33:31; take_foto.py:104)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 21:33:43; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 21:33:49; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 21:33:54; take_foto.py:65)
+ERROR:__main__:  take_foto.py:65 Message: Element not found in the cache - perhaps the page has changed since it was looked up
+Stacktrace:
+    at fxdriver.cache.getElementAt (resource://fxdriver/modules/web-element-cache.js:8329:1)
+    at Utils.getElementAt (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:7922:10)
+    at fxdriver.preconditions.visible (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:8957:11)
+    at DelayedCommand.prototype.checkPreconditions_ (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+    at DelayedCommand.prototype.executeInternal_/h (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/chaot_~1/appdata/local/temp/tmphvmkrh/extensions/fxdriver@googlecode.com/components/command-processor.js:548:5) (2015-02-26 21:33:59; take_foto.py:65)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 21:34:02; take_foto.py:49)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 21:34:46; take_foto.py:49)
+INFO:__main__:  take_foto.py:112 x.get_attribute('src') (2015-02-26 21:34:51; take_foto.py:112)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 21:34:58; take_foto.py:49)
+INFO:__main__:  take_foto.py:112 http://kapous.ru/4/ (2015-02-26 21:34:58; take_foto.py:112)
+ERROR:__main__:  take_foto.py:88 [Errno 22] invalid mode ('wb') or filename: u'?PHPSESSID=c796503cf67e96e5e4efd4e97d3b3231' (2015-02-26 21:35:07; take_foto.py:88)
+ERROR:__main__:  take_foto.py:88 [Errno 22] invalid mode ('wb') or filename: u'ticketreq?ref=323' (2015-02-26 21:35:08; take_foto.py:88)
+ERROR:__main__:  take_foto.py:49 No JSON object could be decoded (2015-02-26 21:36:37; take_foto.py:49)
+INFO:__main__:  take_foto.py:112 http://kapous.ru/4/ (2015-02-26 21:36:45; take_foto.py:112)
+ERROR:__main__:  take_foto.py:88 [Errno 22] invalid mode ('wb') or filename: u'?PHPSESSID=da86c0450edc1d4ed40f782cf81434a4' (2015-02-26 21:36:56; take_foto.py:88)
+ERROR:__main__:  take_foto.py:88 [Errno 22] invalid mode ('wb') or filename: u'ticketreq?ref=323' (2015-02-26 21:36:57; take_foto.py:88)
