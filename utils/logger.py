@@ -6,7 +6,7 @@ import sys
 import logging
 import logging.handlers
 
-f = logging.Formatter(fmt='%(levelname)s:%(name)s:  %(filename)s:%(lineno)d %(message)s '
+formatter = logging.Formatter(fmt='%(levelname)s:%(name)s:  %(filename)s:%(lineno)d %(message)s '
     '(%(asctime)s; %(filename)s:%(lineno)d)',
     datefmt="%Y-%m-%d %H:%M:%S")
 handlers = [
@@ -22,10 +22,10 @@ root_logger = logging.getLogger(__name__)
 
 root_logger.setLevel(logging.DEBUG)
 
-for h in handlers:
-    h.setFormatter(f)
-    h.setLevel(logging.INFO)
-    root_logger.addHandler(h)
+for handler in handlers:
+    handler.setFormatter(formatter)
+    handler.setLevel(logging.INFO)
+    root_logger.addHandler(handler)
 
 #print dir(root_logger)
 
