@@ -1,0 +1,6 @@
+.idea
+.env
+.venv
+.pid
+*.pyc
+*.pyo
