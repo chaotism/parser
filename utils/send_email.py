@@ -10,24 +10,7 @@ from email.header import Header
 from logger import root_logger
 
 logger = root_logger
-#переделать
-# mail_config = {}
-# mail_config['server'] = {}
-# mail_config['message'] = {}
-# mail_config['server']['smtp_server'] = 'smtp.gmail.com'
-# mail_config['server']['smtp_port'] = 587
-# mail_config['server']['mail_use_tls'] = True
-# mail_config['server']['smtp_address'] = 'chaotism8@gmail.com'
-# mail_config['server']['smtp_password'] = ''
-# mail_config['message']['mail_from'] = 'ale-bogut@yandex.ru' # отправитель
-# mail_config['message']['mail_to'] = 'chaotism@mail.ru'   # получатель
-# mail_config['message']['mail_text'] = ''
-# mail_config['message']['mail_subj'] =  'Рассылка по автомобилям' # заголовок письма
-# mail_config['message']['mail_coding'] = 'utf-8'
-# logger.info(mail_config)
-# with open("./config/mail.txt", 'w+') as mail_config_file:
-#     mail_config_dump = json.dump(mail_config,mail_config_file)
-#     logger.info('mail_config_update')
+
 
 try:
     with open("./config/mail.txt", 'r+') as mail_config_file:
@@ -64,4 +47,3 @@ def send_mail(address=None, mail_body=None):
     mailServer.sendmail(mail_config['message']['mail_from'], mail_config['message']['mail_to'], multi_msg.as_string())
     mailServer.close()
     logger.info('message sended')
-    #time.sleep (TIME_WAIT)

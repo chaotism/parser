@@ -7,7 +7,7 @@
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt4 import QtCore, QtGui, QtWebKit
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -17,11 +17,14 @@ except AttributeError:
 
 try:
     _encoding = QtGui.QApplication.UnicodeUTF8
+
+
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig, _encoding)
 except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
+
 
 class Ui_Auto_ru_parser(object):
     def setupUi(self, Auto_ru_parser):
@@ -163,5 +166,3 @@ class Ui_Auto_ru_parser(object):
         self.refresh.setText(_translate("Auto_ru_parser", "Обновить данные", None))
         self.search.setText(_translate("Auto_ru_parser", "Запустить поиск", None))
         self.label_12.setText(_translate("Auto_ru_parser", "Адрес для сообщений", None))
-
-from PyQt4 import QtWebKit

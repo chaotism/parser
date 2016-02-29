@@ -23,6 +23,7 @@ except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
 
+
 class Ui_Auto_ru_parser(object):
     def setupUi(self, Auto_ru_parser):
         Auto_ru_parser.setObjectName(_fromUtf8("Auto_ru_parser"))
@@ -138,7 +139,6 @@ class Ui_Auto_ru_parser(object):
         self.weblog.setGeometry(QtCore.QRect(19, 300, 631, 101))
         self.weblog.setReadOnly(True)
         self.weblog.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOn)
-#        self.weblog.setUrl(QtCore.QUrl(_fromUtf8("about:blank")))
         self.weblog.setObjectName(_fromUtf8("weblog"))
         self.send_target = QtGui.QLineEdit(Auto_ru_parser)
         self.send_target.setGeometry(QtCore.QRect(220, 250, 211, 31))
@@ -146,7 +146,6 @@ class Ui_Auto_ru_parser(object):
         self.label_12 = QtGui.QLabel(Auto_ru_parser)
         self.label_12.setGeometry(QtCore.QRect(240, 220, 171, 31))
         self.label_12.setObjectName(_fromUtf8("label_12"))
-
         self.retranslateUi(Auto_ru_parser)
         QtCore.QMetaObject.connectSlotsByName(Auto_ru_parser)
 
@@ -165,5 +164,3 @@ class Ui_Auto_ru_parser(object):
         self.refresh.setText(_translate("Auto_ru_parser", "Обновить данные", None))
         self.search.setText(_translate("Auto_ru_parser", "Запустить поиск", None))
         self.label_12.setText(_translate("Auto_ru_parser", "Адрес для сообщений", None))
-
-from PyQt4 import QtWebKit

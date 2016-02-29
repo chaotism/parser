@@ -17,17 +17,19 @@ except AttributeError:
 
 try:
     _encoding = QtGui.QApplication.UnicodeUTF8
+
+
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig, _encoding)
 except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
 
+
 class Ui_Dialog(object):
     def setupUi(self, Dialog):
         Dialog.setObjectName(_fromUtf8("Dialog"))
         Dialog.resize(653, 297)
-
         self.label_3 = QtGui.QLabel(Dialog)
         self.label_3.setGeometry(QtCore.QRect(530, 20, 101, 16))
         self.label_3.setObjectName(_fromUtf8("label_3"))
@@ -130,7 +132,6 @@ class Ui_Dialog(object):
         self.search = QtGui.QPushButton(Dialog)
         self.search.setGeometry(QtCore.QRect(430, 250, 151, 31))
         self.search.setObjectName(_fromUtf8("search"))
-
         self.retranslateUi(Dialog)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
 
@@ -148,4 +149,3 @@ class Ui_Dialog(object):
         self.label_7.setText(_translate("Dialog", "За время", None))
         self.refresh.setText(_translate("Dialog", "Обновить данные", None))
         self.search.setText(_translate("Dialog", "Запустить поиск", None))
-

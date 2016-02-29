@@ -1,10 +1,12 @@
 #coding: utf-8
 from __future__ import unicode_literals
 import time
-from PyQt4 import QtCore
+import os
 import sys
 import logging
+from PyQt4 import QtCore
 import logging.handlers
+
 
 formatter = logging.Formatter(fmt='%(levelname)s:%(name)s:  %(filename)s:%(lineno)d %(message)s '
     '(%(asctime)s; %(filename)s:%(lineno)d)',
@@ -16,18 +18,15 @@ handlers = [
 ]
 
 
-
-
 root_logger = logging.getLogger(__name__)
-
 root_logger.setLevel(logging.DEBUG)
+
 
 for handler in handlers:
     handler.setFormatter(formatter)
     handler.setLevel(logging.INFO)
     root_logger.addHandler(handler)
 
-#print dir(root_logger)
 
 def tail_generator(file):
     with open(file, 'r') as f:
@@ -40,18 +39,22 @@ def tail_generator(file):
             yield line
 
 
-
 def tail(file):
-    with open(file, 'r') as f:
+    if not os.path.exists(file):
+        f = open(file, 'w+')
+
+    else:
+        f = open(file, 'r+')
         lines = []
-        f.seek(0,2)
-        while True:
-            line = f.readline()
-            if not line:
-                time.sleep(0.1)
-                continue
-            lines.append(line)
-            return lines
+    f.seek(0,2)
+    while True:
+        line = f.readline()
+        if not line:
+            time.sleep(0.1)
+            continue
+        lines.append(line)
+        f.close()
+        return lines
 
 # while True:
 #     print tail_generator('loger.log').next()

@@ -90,7 +90,6 @@ class CarCrawler(QtCore.QThread):
                             with open("cars_list.txt", 'w+') as cars_file:
                                 cars_dump = json.dump(self.cars, cars_file)
                     #todo:подумать как сделать правильный yield и перересовку интерфейса
-                    #yield (car.get_attribute('href'), self.items[car.get_attribute('href')])
                     prev = './/div[@class="b-pager"]/span[@class="b-pager-ctrl b-pager-ctrl_next"]'
                     next = './/div[@class="b-pager"]/span[@class="b-pager-ctrl b-pager-ctrl_next"]'
                     #TODO: указать время с конфига
@@ -103,7 +102,7 @@ class CarCrawler(QtCore.QThread):
                     next = self.driver.find_element_by_xpath(next).find_element_by_xpath('.//a')
                     next.click()
                 except NoSuchElementException, err:
-                    #logger.error(err)
+                    logger.error(err)
                     break
                 except Exception, err:
                     logger.error(err)
